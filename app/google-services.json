@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "605934427336",
+    "project_id": "mahadev-college-app",
+    "storage_bucket": "mahadev-college-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605934427336:android:0131cb96d73068d6f559fd",
+        "android_client_info": {
+          "package_name": "com.testing.mahadevcollegeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJs994_SrfAojUqtxLln1sD70l4CxQ1nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
